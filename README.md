@@ -14,4 +14,8 @@ A -  CN stands for CommonName , it's like primary key of a row or id of an objec
 ### Q - What is RDN, DN, OU, CN, DC ?
 A -
 ### Q - Link to download OpenDJ
-A -
+A - For Java 8 and + users https://github.com/OpenIdentityPlatform/OpenDJ/releases/tag/4.4.10
+          
+         Java 11 plus users https://backstage.forgerock.com/downloads/browse/ds/featured
+         
+     
