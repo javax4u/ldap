@@ -15,7 +15,8 @@ A -  CN stands for CommonName , it's like primary key of a row or id of an objec
 A -
 ### Q - Link to download OpenDJ
 A - For Java 8 and + users https://github.com/OpenIdentityPlatform/OpenDJ/releases/tag/4.4.10
-          
+   ![image](https://user-images.githubusercontent.com/2442530/115102736-713b6600-9f6a-11eb-98e2-9c64831bb514.png)
+
          Java 11 plus users https://backstage.forgerock.com/downloads/browse/ds/featured
          
      
