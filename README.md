@@ -23,6 +23,6 @@ A - For Java 8 and + users https://github.com/OpenIdentityPlatform/OpenDJ/releas
    Note: This link did not work for me. First problem was registering on this site and another was zip download was not installing properly.
    
 ### Q - Link of video for installation steps.
-A    
+A    https://www.youtube.com/watch?v=5mEze7YMkr0&t=101s
          
      
