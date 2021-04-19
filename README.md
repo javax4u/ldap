@@ -24,5 +24,6 @@ A - For Java 8 and + users https://github.com/OpenIdentityPlatform/OpenDJ/releas
    
 ### Q - Link of video for installation steps.
 A    https://www.youtube.com/watch?v=5mEze7YMkr0&t=101s
-         
+### Q - How to run this sample program ? 
+A    https://youtu.be/JJSbUfL83l4
      
